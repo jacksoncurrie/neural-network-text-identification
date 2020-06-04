@@ -1,1 +1,3 @@
-# neural-network-text-identification
+# Neural Network Text Identification
+
+Algorithms used to process handwritten numbers.
